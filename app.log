@@ -1,0 +1,7 @@
+::ffff:127.0.0.1 - - [23/Nov/2022:16:46:59 +0000] "GET / HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [23/Nov/2022:16:46:59 +0000] "GET /css/bootstrap.min.css HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [23/Nov/2022:16:46:59 +0000] "GET /css/styles.css HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [23/Nov/2022:16:46:59 +0000] "GET /js/bootstrap.min.js HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [23/Nov/2022:16:46:59 +0000] "GET /fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 178
+::ffff:127.0.0.1 - - [23/Nov/2022:16:46:59 +0000] "GET /fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 177
+::ffff:127.0.0.1 - - [23/Nov/2022:16:46:59 +0000] "GET /favicon.ico HTTP/1.1" 404 150
